@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiamiao/CLionProjects/HighGUIStudy/main.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+opencv2/highgui/highgui.hpp
+/home/jiamiao/CLionProjects/HighGUIStudy/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/jiamiao/CLionProjects/HighGUIStudy/opencv2/imgproc/imgproc.hpp
+vector
+/home/jiamiao/CLionProjects/HighGUIStudy/vector
+

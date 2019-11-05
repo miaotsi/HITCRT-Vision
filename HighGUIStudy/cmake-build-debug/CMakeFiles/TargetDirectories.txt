@@ -1,0 +1,3 @@
+/home/jiamiao/CLionProjects/HighGUIStudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jiamiao/CLionProjects/HighGUIStudy/cmake-build-debug/CMakeFiles/HighGUIStudy.dir
+/home/jiamiao/CLionProjects/HighGUIStudy/cmake-build-debug/CMakeFiles/edit_cache.dir
